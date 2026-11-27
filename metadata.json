@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Legend Was Born",
+  "description": "An interactive, cinematic birthday website celebrating one legend across galaxies, secret missions, highways, railways, gaming worlds, and 50 personal memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
